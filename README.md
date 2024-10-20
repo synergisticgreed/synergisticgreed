@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synergisticgreed&show_icons=true&locale=en" alt="synergisticgreed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synergisticgreed&" alt="synergisticgreed" /></p>
+
+
+[![An image of @synergisticgreed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/synergisticgreed)](https://holopin.io/@synergisticgreed)
